@@ -1,5 +1,5 @@
 # 0xff CS50 Projects
------------------------
+
 ## Description:
 
 This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX.
