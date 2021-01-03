@@ -2,13 +2,16 @@
 -----------------------
 ## Description:
 
-This repository hosts a series of code snippets and projects completed throuhout HarvardX's CS50 Course on EdX.
+This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX.
 
-Course Website: [CS50](https://cs50.harvard.edu/x/2020/)
+Course Website: [CS50x Website](https://cs50.harvard.edu/x/2020/)
 
-## Cloud-Based Development Environment
+--------------------------------------------------------
+## Cloud-Based Integrated Development Environment
 * [CS50 IDE](https://ide.cs50.io/)
 
-## Local Machine
-* Kali Linux 5.8.0-kali2-amd64, [Download Here](https://www.kali.org/downloads/)
-* GCC v10.2.0 [
+## Local Machine Integrated Development Environment
+* **OS:** Kali Linux 5.8.0-kali2-amd64
+
+        [Download Here](https://www.kali.org/downloads/)
+* **Compiler:** GCC v10.2.0 [
