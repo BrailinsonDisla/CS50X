@@ -1,10 +1,10 @@
-# 0xff -- CS50 Projects
+# 0xff CS50 Projects
 -----------------------
 ## Description:
 
 This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX.
 
-Course Website: [CS50x Website](https://cs50.harvard.edu/x/2020/)
+**Course Website:** [CS50x Website](https://cs50.harvard.edu/x/2020/)
 
 --------------------------------------------------------
 ## Cloud-Based Integrated Development Environment
