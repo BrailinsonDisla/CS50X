@@ -1,5 +1,7 @@
-0xff CS50 Projects
+0xff50 Projects
 ----------------------------------------------------------------
-**Description:**  
+**Description:**
+This repository contains a list of projects that I did over the
+course of CS50's class.
 
 ----------------------------------------------------------------
