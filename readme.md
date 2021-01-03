@@ -1,8 +1,8 @@
-0xff50 Projects
-----------------------------------------------------------------
-**Description:**
+# 0xff -- CS50 Projects
+---------------------
+## Description:
 
-This repository contains a list of projects that I did over the
-course of CS50's class.
+This repository hosts a series of code snippets and projects completed by me (Brailinson Disla) throuhout HarvardX's CS50 Course on EdX.
 
-----------------------------------------------------------------
+## Development Environment
+[CS50 IDE](https://ide.cs50.io/)
