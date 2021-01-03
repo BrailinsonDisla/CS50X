@@ -6,7 +6,6 @@ This repository hosts a series of code snippets and projects completed throughou
 
 **Course Website:** [CS50x Website](https://cs50.harvard.edu/x/2020/)
 
---------------------------------------------------------
 ## Cloud-Based Integrated Development Environment
 * [CS50 IDE](https://ide.cs50.io/)
 
