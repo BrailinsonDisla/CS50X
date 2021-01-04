@@ -11,7 +11,6 @@ This repository hosts a series of code snippets and projects completed throughou
 ## Local Machine Integrated Development Environment
 * **OS:** Kali Linux
     * [Download Binaries](https://cdimage.kali.org/)
-    
 * **Compiler:** GCC v10.2.0
     * [Installation Guide](https://gcc.gnu.org/install/)
     * Debian - Terminal Installation
