@@ -27,7 +27,7 @@ This repository hosts a series of code snippets and projects completed through H
 ### **1. Scratch Playground**
 * *Assignment Link: [CS50 F'20 - Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)* | *[CS50 F'21 - Scratch](https://cs50.harvard.edu/x/2021/)*
 * *Scratch Link: [Planets Spiral Orbit](https://scratch.mit.edu/projects/451801134)*
-* *File Path: [SB3 File](Projects/1.%20Scratch%20Playground/Planets%20Spiral%20Orbit.sb3)*  
+* *File: [SB3 File](Projects/1.%20Scratch%20Playground/Planets%20Spiral%20Orbit.sb3)*  
 > **Description:**
 >
 > This project implements a desgin of one's choice in MIT's block-based and visual programming platform - [scratch](https://scratch.mit.edu). The program I created and developed, `Planets Spiral Orbit`, features two planets that orbit a common star, their sun; which they spiral out of as time passes.
