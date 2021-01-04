@@ -1,5 +1,4 @@
-<html>
-   <h1 style="font-family:Times New Roman"> 0xff CS50 Projects </h1>
+# **0xff CS50 Projects**
 
 ## Description:
 This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX. Most of these are written in C, the programming language used throughout the course.
@@ -24,7 +23,6 @@ This repository hosts a series of code snippets and projects completed throughou
 
 ## **Project List**
 #### **Scratch**
-
- - **description:**
-
-</html>
+ ```diff
+@@ description @@
+```
