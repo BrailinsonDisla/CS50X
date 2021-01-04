@@ -20,3 +20,7 @@ This repository hosts a series of code snippets and projects completed throughou
 * **Debugger:** GDB v9.2
     * Debian Installation
          * `sudo apt-get install gdb`
+------------------------------------
+
+# Project List
+1. Scratch
