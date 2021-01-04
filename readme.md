@@ -22,7 +22,10 @@ This repository hosts a series of code snippets and projects completed throughou
 ------------------------------------
 
 ## **Project List**
-#### **Scratch**
+#### **1. Scratch**
+* **Assignment Link:**
+   * [Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)
  ```diff
 @@ description @@
+# This project is 
 ```
