@@ -16,9 +16,7 @@ This repository hosts a series of code snippets and projects completed throughou
 * **Compiler:** GCC v10.2.0
     * [Installation Guide](https://gcc.gnu.org/install/)
     * Debian Installation
-    
          * `sudo apt-get install gcc`
 * **Debugger:** GDB v9.2
     * Debian Installation
-    
          * `sudo apt-get install gdb`
