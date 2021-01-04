@@ -1,7 +1,7 @@
 # **0xff CS50 Projects**
 
 ## Description:
-This repository hosts a series of code snippets and projects completed through HarvardX's CS50 F'20 & S'21 courses.
+This repository hosts a series of code snippets and projects completed through HarvardX's F'20 & S'21 CS50 course.
 
 *The programs are written in C, the programming language used throughout both courses.*
 
