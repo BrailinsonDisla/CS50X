@@ -21,10 +21,9 @@ This repository hosts a series of code snippets and projects completed throughou
          * `sudo apt-get install gdb`
 ------------------------------------
 
-## **Project List**
-#### **1. Scratch**
-* **Assignment Link:**
-   * [Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)
+# **Project List**
+### **1. Scratch**
+* *Assignment Link: [CS50 - Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/)*
  ```diff
 @@ description @@
 # This project is 
