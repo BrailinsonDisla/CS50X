@@ -1,4 +1,4 @@
-# **0xff CS50 2020-21 Projects**
+# **0xff CS50 Projects**
 
 ## Description:
 This repository hosts a series of code snippets and projects completed throughout HarvardX's Fall '20 & Spring '21 CS50 course on EdX. Most of the programs are written in C, the programming language used throughout the course(s).
