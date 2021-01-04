@@ -2,7 +2,7 @@
 # **0xff CS50 Projects**
 
 ## Description:
-This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX.
+This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX. Most of these are written in C, the programming language used throughout the course.
 
 **Course Website:** [CS50x Website](https://cs50.harvard.edu/x/2020/)
 
@@ -23,4 +23,9 @@ This repository hosts a series of code snippets and projects completed throughou
 ------------------------------------
 
 ## Project List
-**1. Scratch**
+#### Scratch
+
+> description:
+>
+>
+>
