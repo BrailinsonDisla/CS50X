@@ -4,6 +4,7 @@
 ----------------------------------
 
 ## Description:
+--------------
 This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX.
 
 **Course Website:** [CS50x Website](https://cs50.harvard.edu/x/2020/)
