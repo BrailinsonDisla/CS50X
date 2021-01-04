@@ -29,4 +29,4 @@ This repository hosts a series of code snippets and projects completed throughou
 * *Scratch Link: [Planets Spiral Orbit](https://scratch.mit.edu/projects/451801134)*  
 > **Description:**
 >
-> This project implements a desgin of one's choice in MIT's block-based and visual programming platform -- [Scratch](https://scratch.mit.edu). The program I designed and developed, Planets Spiral Orbit, features two planets that orbit a common sun; as time passes, they both spiral out from their sun.
+> This project implements a desgin of one's choice in MIT's block-based and visual programming platform, [Scratch](https://scratch.mit.edu). The program I designed and developed, Planets Spiral Orbit, features two planets that orbit a common sun; as time passes, they both spiral out from their sun.
