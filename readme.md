@@ -1,4 +1,7 @@
 
+# **0xff CS50 Projects**
+##### **Author:** Brailinson Disla
+
 ## Description:
 This repository hosts a series of code snippets and projects completed throughout HarvardX's CS50 course on EdX.
 
