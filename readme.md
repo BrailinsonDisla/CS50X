@@ -22,5 +22,5 @@ This repository hosts a series of code snippets and projects completed throughou
          * `sudo apt-get install gdb`
 ------------------------------------
 
-# Project List
-1. Scratch
+## Project List
+**1. Scratch**
