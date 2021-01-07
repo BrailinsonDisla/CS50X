@@ -4,6 +4,8 @@
  *  Compilation:  make readability
  *  Execution:    ./readabiltiy
  *
+ * Calculates, and prints to the console, the (U.S) grade level required to read
+ * a given text using Coleman-Liau readability index.
  *
  *  % ./readabiltiy
  ******************************************************************************/
