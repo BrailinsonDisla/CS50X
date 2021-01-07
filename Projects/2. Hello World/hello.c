@@ -4,6 +4,8 @@
  *  Compilation:  make hello
  *  Execution:    ./hello
  *
+ *  Prints "hello, brai" to the standard output device -- terminal.
+ *    - where brai is the input (name) provided by the user.
  *
  *  % ./hello
  ******************************************************************************/
