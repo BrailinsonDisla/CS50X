@@ -41,5 +41,6 @@ This repository hosts a series of code snippets and projects completed through H
 
 
 ### **3. Mario**
-
+`DETAILS IN PROGRESS`
 ### **5. Readability**
+`DETAILS IN PROGRESS`
