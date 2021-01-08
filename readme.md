@@ -37,6 +37,7 @@ This repository hosts a series of code snippets and projects completed through H
 * *File: [C File](Projects/2.%20Hello%20World/hello.c)*
 > **Description:**
 >
+> This program prints "hello, `name`" to the console; a new programmer's traditional first written program. The source code file includes notes from class that explain Java's syntax and a few important introductory guidelines (or rules of Java) for beginners in the subject.
 
 
 ### **3. Mario**
