@@ -31,3 +31,14 @@ This repository hosts a series of code snippets and projects completed through H
 > **Description:**
 >
 > This project implements a desgin of one's choice in MIT's block-based and visual programming platform - [scratch](https://scratch.mit.edu). The program I created and developed, `Planets Spiral Orbit`, features two planets that orbit a common star, their sun; which they spiral out of as time passes.
+
+### **2. Hello World**
+* *Assignment Link: [CS50 F'20 - Hello World](https://cs50.harvard.edu/x/2020/psets/1/hello/)* | *[CS50 S'21 - Hello World](https://cs50.harvard.edu/x/2021/psets/1/hello/)*
+* *File: [C File](Projects/2.%20Hello%20World/hello.c)*
+> **Description:**
+>
+
+
+### **3. Mario**
+
+### **5. Readability**
