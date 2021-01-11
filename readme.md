@@ -42,7 +42,7 @@ This repository hosts a series of code snippets and projects completed through H
 
 ### **3. Mario**
 * *Assignment Link: [CS50 F'20 - Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/more/)* | *[CS50 S'21 - Mario](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)*
-* *File: [C File](Projects/3.%Mario/mario.c)*
+* *File: [C File](Projects/3.%20Mario/mario.c)*
 > **Description:**
 >
 > `DETAILS IN PROGRESS`
