@@ -41,6 +41,18 @@ This repository hosts a series of code snippets and projects completed through H
 
 
 ### **3. Mario**
-`DETAILS IN PROGRESS`
+* *Assignment Link: [CS50 F'20 - Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/more/)* | *[CS50 S'21 - Mario](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)*
+* *File: [C File](Projects/3.%Mario/mario.c)*
+> **Description:**
+>
+> `DETAILS IN PROGRESS`
+
 ### **5. Readability**
 `DETAILS IN PROGRESS`
+
+### **X. Template**
+* *Assignment Link: [CS50 F'20 - Name](https://linkfa20)* | *[CS50 S'21 - Name](https://linksp21)*
+* *File: [C File](Projects/X.%20Template/name.c)*
+> **Description:**
+>
+> `DETAILS IN PROGRESS`
