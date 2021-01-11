@@ -8,13 +8,11 @@
  *  Super Mario Brothers' videogame. Hashes (#) represent bricks in the pyramid.
  *
  *  APPROACH 2 OF 2:
-
-
- *    Uses relational positioning of the current row (r) to determine the number
- *  of spaces (s) to the right of the #'s in relation to the pyramid's height.
- *    - the number of spaces           -->   (h - r)
- *    - the number of #s is (right)    -->   r
- *    - the number of #s is (left)     -->   r
+ *    Uses euclidean transformation to iterate through the x-coordinates of each
+ *  row (r), and uses the following to choose between #'s and one or two spaces:
+ *    - brick [hash]          --> when abs(x) <= r
+ *    - double space          --> at x == 0
+ *    - single space          --> otherwise [breaks if x > r ]
  *
  *  % ./mario
  ******************************************************************************/
@@ -52,7 +50,7 @@ int main() {
                 // break if last # has been drawn
                 if (x > i)
                   break;
-                  
+
                 // print spaces otherwise
                 printf(" ");
             }
