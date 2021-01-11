@@ -45,7 +45,7 @@ This repository hosts a series of code snippets and projects completed through H
 * *File: [C File](Projects/3.%20Mario/mario.c)*
 > **Description:**
 >
-> This program prompts the user for a `height` and draws two adjecent pyramids of given `height`, separated by two spaces. The pyramids are modeled after those that appear in Nintendo’s Super Mario Brothers videogame, using hashes(#) to represent bricks. There are two versions of the program, each of which uses a different approach: `mario.c` uses relational positioning and `marioe.c` uses euclidean transformation.
+> This program prompts the user for a `height` and draws two adjecent pyramids of such, separated by spaces. The pyramids are modeled after those that appear in Nintendo’s Super Mario Brothers videogame, using hashes (#) to represent bricks. There are two versions of the program, each of which uses a different approach: `mario.c` uses relational positioning and `marioe.c` uses euclidean transformation.
 
 ### **5. Readability**
 `DETAILS IN PROGRESS`
