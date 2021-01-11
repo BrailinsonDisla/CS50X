@@ -23,7 +23,7 @@ This repository hosts a series of code snippets and projects completed through H
          * `sudo apt-get install gdb`
 ------------------------------------
 
-# **Project List**
+# **Project List** <br/>
 ### **1. Scratch Playground**
 * Assignment Link: [CS50 F'20 - Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/) | [CS50 S'21 - Scratch](https://cs50.harvard.edu/x/2021/)
 * Scratch Link: [Planets Spiral Orbit](https://scratch.mit.edu/projects/451801134)
