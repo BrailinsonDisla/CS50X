@@ -54,6 +54,14 @@ This repository hosts a series of code snippets and projects completed through H
 > This program prompts the user for a `height` and draws two adjecent pyramids of such, separated by spaces. The pyramids are modeled after those that appear in Nintendo’s Super Mario Brothers videogame, using hashes (#) to represent bricks. There are two versions of the program, each of which uses a different approach: `mario.c` uses relational positioning and `marioe.c` uses euclidean transformation.
 <br/>
 
+### **4. Credit**
+* Assignment Link: [CS50 F'20 - Credit](
+https://cs50.harvard.edu/x/2020/psets/1/credit/) | [CS50 S'21 - Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)
+* File: [`credit.c`](Projects/4.%20Credit/credit.c)
+> **Description:** <br/> <br/>
+> `DETAILS IN PROGRESS`
+<br/>
+
 ### **5. Readability**
 * Assignment Link: [CS50 F'20 - Readability](https://cs50.harvard.edu/x/2020/psets/2/readability/) | [CS50 S'21 - Readability](https://cs50.harvard.edu/x/2021/psets/2/readability/)
 * File: [`readability.c`](Projects/5.%20Readability/readability.c)
