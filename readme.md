@@ -55,6 +55,8 @@ This repository hosts a series of code snippets and projects completed through H
 <br/>
 
 ### **5. Readability**
+* Assignment Link: [CS50 F'20 - Readability](https://cs50.harvard.edu/x/2020/psets/2/readability/) | [CS50 S'21 - Readability](https://cs50.harvard.edu/x/2021/psets/2/readability/)
+* File: [`readability.c`](Projects/5.%20Readability/readability.c)
 `DETAILS IN PROGRESS`
 <br/>
 
