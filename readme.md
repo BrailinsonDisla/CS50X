@@ -24,12 +24,12 @@ This repository hosts a series of code snippets and projects completed through H
 ## Compiling & Running
 * **Compiling:** `program.c`
    * OPT1: `gcc -o program program.c`
-      * creates **`program`** executable
+      * creates **`program`** executable <br/>
    * OPT2: `make program`
       * creates **`program`** executable
          - autonatically links libraries
 * **Running:** `program`
-   * `./program
+   * `./program`
 ------------------------------------
 # **Project List**
 ### **1. Scratch Playground**
