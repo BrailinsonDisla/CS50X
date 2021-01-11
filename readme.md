@@ -20,6 +20,15 @@ This repository hosts a series of code snippets and projects completed through H
 * **Debugger:** GDB v9.2
     * Debian Installation
          * `sudo apt-get install gdb`
+         
+## Compiling & Running
+* **Compiling:** `program.c`
+   * `gcc -o program program.c`
+      * creates **`program`** executable
+   * `make program`
+      * creates **`program`** executable (and autonatically links libraries)
+* **Running:** `program`
+   * `./program
 ------------------------------------
 # **Project List**
 ### **1. Scratch Playground**
