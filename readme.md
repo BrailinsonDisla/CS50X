@@ -57,7 +57,8 @@ This repository hosts a series of code snippets and projects completed through H
 ### **5. Readability**
 * Assignment Link: [CS50 F'20 - Readability](https://cs50.harvard.edu/x/2020/psets/2/readability/) | [CS50 S'21 - Readability](https://cs50.harvard.edu/x/2021/psets/2/readability/)
 * File: [`readability.c`](Projects/5.%20Readability/readability.c)
-`DETAILS IN PROGRESS`
+> **Description:** <br/> <br/>
+> This program prompts the user for `text` and calculates the U.S. grade level required to read and comprehend it. The Coleman-Liau readability index is calculated, and the required grade level is then printed to the console.
 <br/>
 
 ### **X. Template**
