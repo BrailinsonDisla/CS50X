@@ -10,7 +10,6 @@ This repository hosts a series of code snippets and projects completed through H
 ## Cloud-Based Integrated Development Environment
 * [CS50 IDE](https://ide.cs50.io/)
     * integrates the **`cs50.h`** header file
-    
 ## Local Machine Integrated Development Environment
 * **OS:** Kali Linux
     * [Download Binaries](https://cdimage.kali.org/)
@@ -22,8 +21,7 @@ This repository hosts a series of code snippets and projects completed through H
     * Debian Installation
          * `sudo apt-get install gdb`
 ------------------------------------
-
-# **Project List** <br/>
+# **Project List**
 ### **1. Scratch Playground**
 * Assignment Link: [CS50 F'20 - Scratch](https://cs50.harvard.edu/x/2020/psets/0/scratch/) | [CS50 S'21 - Scratch](https://cs50.harvard.edu/x/2021/)
 * Scratch Link: [Planets Spiral Orbit](https://scratch.mit.edu/projects/451801134)
