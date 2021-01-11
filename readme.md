@@ -25,6 +25,9 @@ This repository hosts a series of code snippets and projects completed through H
 * **Compiling:** `program.c`
    * `gcc -o program program.c`
       * creates **`program`** executable
+      
+<br/>**OR**<br/>
+
    * `make program`
       * creates **`program`** executable (and autonatically links libraries)
 * **Running:** `program`
