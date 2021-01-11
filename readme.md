@@ -29,7 +29,6 @@ This repository hosts a series of code snippets and projects completed through H
 > **Description:**
 >
 > This project implements a desgin of one's choice in MIT's block-based and visual programming platform - [scratch](https://scratch.mit.edu). The program I created and developed, `Planets Spiral Orbit`, features two planets that orbit a common star, their sun; which they spiral out of as time passes.
-
 <br/>
 
 ### **2. Hello World**
@@ -38,7 +37,6 @@ This repository hosts a series of code snippets and projects completed through H
 > **Description:**
 >
 > This program prompts the user for a `name` and prints "hello, `name`" to the console; a variation of new programmer's traditional first written program 'hello world.' *The source code file includes notes from class that explain C's syntax and a few important introductory guidelines (or rules of C) for beginners in the subject.*
-
 <br/>
 
 ### **3. Mario**
@@ -47,12 +45,10 @@ This repository hosts a series of code snippets and projects completed through H
 > **Description:**
 >
 > This program prompts the user for a `height` and draws two adjecent pyramids of such, separated by spaces. The pyramids are modeled after those that appear in Nintendo’s Super Mario Brothers videogame, using hashes (#) to represent bricks. There are two versions of the program, each of which uses a different approach: `mario.c` uses relational positioning and `marioe.c` uses euclidean transformation.
-
 <br/>
 
 ### **5. Readability**
 `DETAILS IN PROGRESS`
-
 <br/>
 
 ### **X. Template**
@@ -61,5 +57,4 @@ This repository hosts a series of code snippets and projects completed through H
 > **Description:**
 >
 > `DETAILS IN PROGRESS`
-
 <br/>
