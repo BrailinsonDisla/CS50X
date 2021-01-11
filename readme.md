@@ -20,6 +20,16 @@ This repository hosts a series of code snippets and projects completed through H
 * **Debugger:** GDB v9.2
     * Debian Installation
          * `sudo apt-get install gdb`
+         
+## Compiling & Running
+* **Compiling:** `program.c`
+   * **option 1:** `gcc -o program program.c`
+      * creates **`program`** executable <br/>
+   * **option 2:** `make program`
+      * creates **`program`** executable
+         - autonatically links libraries
+* **Running:** `program`
+   * `./program`
 ------------------------------------
 # **Project List**
 ### **1. Scratch Playground**
@@ -39,13 +49,16 @@ This repository hosts a series of code snippets and projects completed through H
 
 ### **3. Mario**
 * Assignment Link: [CS50 F'20 - Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/more/) | [CS50 S'21 - Mario](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)
-* File: [`mario.c`](Projects/3.%20Mario/mario.c)
+* Files: [`mario.c`](Projects/3.%20Mario/mario.c) | [`marioe.c`](Projects/3.%20Mario/marioe.c)
 > **Description:** <br/> <br/>
 > This program prompts the user for a `height` and draws two adjecent pyramids of such, separated by spaces. The pyramids are modeled after those that appear in Nintendo’s Super Mario Brothers videogame, using hashes (#) to represent bricks. There are two versions of the program, each of which uses a different approach: `mario.c` uses relational positioning and `marioe.c` uses euclidean transformation.
 <br/>
 
 ### **5. Readability**
-`DETAILS IN PROGRESS`
+* Assignment Link: [CS50 F'20 - Readability](https://cs50.harvard.edu/x/2020/psets/2/readability/) | [CS50 S'21 - Readability](https://cs50.harvard.edu/x/2021/psets/2/readability/)
+* File: [`readability.c`](Projects/5.%20Readability/readability.c)
+> **Description:** <br/> <br/>
+> This program prompts the user for `text` and calculates the U.S. grade level required to read and comprehend it. The Coleman-Liau readability index is calculated, and the required grade level is then printed to the console.
 <br/>
 
 ### **X. Template**
