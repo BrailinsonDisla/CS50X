@@ -10,9 +10,9 @@
  *  APPROACH 2 OF 2:
  *    Uses euclidean transformation to iterate through the x-coordinates of each
  *  row (r), and uses the following to choose between #'s and one or two spaces:
- *    - brick [hash]          --> when abs(x) <= r
- *    - double space          --> at x == 0
- *    - single space          --> otherwise [breaks if x > r ]
+ *    - brick [hash]              --> when abs(x) <= r
+ *    - gap [double space]        --> at x == 0
+ *    - space [single space]      --> otherwise [breaks if x > r ]
  *
  *  % ./mario
  ******************************************************************************/
