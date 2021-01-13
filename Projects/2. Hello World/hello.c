@@ -21,8 +21,7 @@ int main(void) {
     // scans and stores the name as a char[]
     char name[MAX_CHARS];
     scanf("%[^\n]%*c", name);
-
-
+    
     // prints 'hello, *name*'
     printf("hello, %s\n", name);
 
