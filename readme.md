@@ -20,14 +20,14 @@ This repository hosts a series of code snippets and projects completed through H
 * **Debugger:** GDB v9.2
     * Debian Installation
          * `sudo apt-get install gdb`
-         
+
 ## Compiling & Running
 * **Compiling:** `program.c`
    * **option 1:** `gcc -o program program.c`
       * creates **`program`** executable <br/>
    * **option 2:** `make program`
       * creates **`program`** executable
-         - autonatically links libraries
+         - automatically links libraries
 * **Running:** `program`
    * `./program`
 ------------------------------------
@@ -37,7 +37,7 @@ This repository hosts a series of code snippets and projects completed through H
 * Scratch Link: [Planets Spiral Orbit](https://scratch.mit.edu/projects/451801134)
 * File: [`SB3 File`](Projects/1.%20Scratch%20Playground/Planets%20Spiral%20Orbit.sb3)
 > **Description:** <br/> <br/>
-> This project implements a desgin of one's choice in MIT's block-based and visual programming platform - [scratch](https://scratch.mit.edu). The program I created and developed, `Planets Spiral Orbit`, features two planets that orbit a common star, their sun; which they spiral out of as time passes.
+> This project implements a design of one's choice in MIT's block-based and visual programming platform - [scratch](https://scratch.mit.edu). The program I created and developed, `Planets Spiral Orbit`, features two planets that orbit a common star, their sun; which they spiral out of as time passes.
 <br/>
 
 ### **2. Hello World**
@@ -51,7 +51,7 @@ This repository hosts a series of code snippets and projects completed through H
 * Assignment Link: [CS50 F'20 - Mario](https://cs50.harvard.edu/x/2020/psets/1/mario/more/) | [CS50 S'21 - Mario](https://cs50.harvard.edu/x/2021/psets/1/mario/more/)
 * Files: [`mario.c`](Projects/3.%20Mario/mario.c) | [`marioe.c`](Projects/3.%20Mario/marioe.c)
 > **Description:** <br/> <br/>
-> This program prompts the user for a `height` and draws two adjecent pyramids of such, separated by spaces. The pyramids are modeled after those that appear in Nintendo’s Super Mario Brothers videogame, using hashes (#) to represent bricks. There are two versions of the program, each of which uses a different approach: `mario.c` uses relational positioning and `marioe.c` uses euclidean transformation.
+> This program prompts the user for a `height` and draws two adjacent pyramids of such, separated by spaces. The pyramids are modeled after those that appear in Nintendo’s Super Mario Brothers video game, using hashes (#) to represent bricks. There are two versions of the program, each of which uses a different approach: `mario.c` uses relational positioning and `marioe.c` uses euclidean transformation.
 <br/>
 
 ### **4. Credit**
@@ -59,7 +59,7 @@ This repository hosts a series of code snippets and projects completed through H
 https://cs50.harvard.edu/x/2020/psets/1/credit/) | [CS50 S'21 - Credit](https://cs50.harvard.edu/x/2021/psets/1/credit/)
 * File: [`credit.c`](Projects/4.%20Credit/credit.c)
 > **Description:** <br/> <br/>
-> `DETAILS IN PROGRESS`
+> This program prompts the user for a credit or debit card `number` and determines whether it is valid or invalid. The validity is determined using card number's length rules and the starting (first two) digits signature, along with using the Luhn's Algorithm to determine if it has a valid checksum.
 <br/>
 
 ### **5. Readability**

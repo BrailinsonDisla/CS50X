@@ -8,7 +8,8 @@
  * identifies the card's financial institution based on initial digits signature
  *  -- prints whether it is a American Express, Mastercard or Visa
  *
- * The program implements a user-defined representation of a card with a respective
+ * The program implements a user-defined representation of a card with the given
+ * number, its institutional association and if it is valid.
  *
  *  % ./credit
  ******************************************************************************/
