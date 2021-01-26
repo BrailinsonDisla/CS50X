@@ -69,9 +69,9 @@ https://cs50.harvard.edu/x/2020/psets/1/credit/) | [CS50 S'21 - Credit](https://
 > This program prompts the user for `text` and calculates the U.S. grade level required to read and comprehend it. The Coleman-Liau readability index is calculated, and the required grade level is then printed to the console.
 <br/>
 
-### **6. Ceaser**
-* Assignment Link: [CS50 F'20 - Name](https://linkfa20) | [CS50 S'21 - Name](https://linksp21)
-* File: [`name.c`](Projects/X.%20Template/name.c)
+### **6. Caesar**
+* Assignment Link: [CS50 F'20 - Caesar](https://cs50.harvard.edu/x/2020/psets/2/caesar/) | [CS50 S'21 - Caesar](https://cs50.harvard.edu/x/2021/psets/2/caesar/)
+* File: [`caesar.c`](Projects/6.%20Caesar/caesar.c)
 > **Description:** <br/> <br/>
 > `DETAILS IN PROGRESS`
 <br/>
