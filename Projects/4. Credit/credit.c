@@ -6,7 +6,7 @@
  *
  *  Checks if a given card number is valid using Luhn's checksun algorithm, and
  *  identifies its financial institution based on initial digital signature
- *      -- if valid prints whether it is a American Express, Mastercard or Visa
+ *      -- if valid, prints whether it is a American Express, Mastercard or Visa
  *
  *  The program implements a user-defined representation of a card with their
  *  respective number, its institutional association and if it is valid.
