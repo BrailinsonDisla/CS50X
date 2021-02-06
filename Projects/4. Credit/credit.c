@@ -4,12 +4,12 @@
  *  Compilation:  make credit
  *  Execution:    ./credit
  *
- * Checks if a given card number is valid using Luhn's Algorithm's checksun, and
- * identifies the card's financial institution based on initial digits signature
- *  -- prints whether it is a American Express, Mastercard or Visa
+ *  Checks if a given card number is valid using Luhn's checksun algorithm, and
+ *  identifies its financial institution based on initial digital signature
+ *      -- if valid prints whether it is a American Express, Mastercard or Visa
  *
- * The program implements a user-defined representation of a card with the given
- * number, its institutional association and if it is valid.
+ *  The program implements a user-defined representation of a card with their
+ *  respective number, its institutional association and if it is valid.
  *
  *  % ./credit
  ******************************************************************************/
@@ -29,7 +29,7 @@ typedef struct {
     char finInstitution[15];
 } cc;
 
-// protorype for user-defined functions
+// prototype for user-defined functions
 cc createCard(long int number);
 bool validateCard(cc *card);
 bool checksum(cc *card, int length);
