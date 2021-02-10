@@ -29,7 +29,7 @@ int main() {
         // ask user for height
         printf("Height: ");
 
-        // scan input Heigh
+        // scan input height
         scanf("%d", &height);
 
         // clear buffer if not a number
