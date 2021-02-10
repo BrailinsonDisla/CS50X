@@ -15,7 +15,7 @@
 
 // prototypes for user-defined functions
 int usage();
-void encrypt(char*, char*, int);
+void encrypt(char *, char *, int);
 
 // global variables
 const int MAX_BUFFER = 4096;
