@@ -4,11 +4,12 @@
  *  Compilation:  make caesar
  *  Execution:    ./caesar
  *
- *
+ *  Uses a given key to encrypt a message the user is prompted to input.
  *
  *  % ./caesar
  ******************************************************************************/
 #include <stdio.h>
+#include <ctype.h>
 #include <string.h>
 #include <stdlib.h>
 
@@ -26,11 +27,22 @@ int main(int argc, char **argv) {
         return usage();
     }
 
+    // retrieve key
+    char* str_key = argv[1];
+
+    // ensure the key is valid
+    for (int i = 0; i < strlen(str_key); i++) {
+        // check if is ith is not digit
+        if (!isdigit(str_key[i])) {
+            return usage();
+        }
+    }
+
     // integer for key
     int key = atoi(argv[1]);
 
     // ensure the key is valid
-    if (key <= 0) {
+    if (key < 0) {
         // remind user of usage
         return usage();
     }
