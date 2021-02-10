@@ -73,7 +73,8 @@ https://cs50.harvard.edu/x/2020/psets/1/credit/) | [CS50 S'21 - Credit](https://
 * Assignment Link: [CS50 F'20 - Caesar](https://cs50.harvard.edu/x/2020/psets/2/caesar/) | [CS50 S'21 - Caesar](https://cs50.harvard.edu/x/2021/psets/2/caesar/)
 * File: [`caesar.c`](Projects/6.%20Caesar/caesar.c)
 > **Description:** <br/> <br/>
-> `DETAILS IN PROGRESS`
+> This program requires the user to provide a single command line argument, a `key` which is used to encrypt the `message` they are prompted for. This program is an implementation of the Caesar Encryption Algorithm.
+>`DETAILS IN PROGRESS`
 <br/>
 
 <!--
